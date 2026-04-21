@@ -1,5 +1,5 @@
-remote_theme: pages themes/cayman@v0.2.0:
-
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
 title: Розробка веб-орієнтованої інформаційної системи для реалізації побутової техніки та електроніки
-
 description: Дипломна робота Лютий Д.Г.
